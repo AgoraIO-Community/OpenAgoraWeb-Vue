@@ -1,9 +1,8 @@
 {
   "name": "open_agora_web_vue",
-  "version": "0.2.1",
-  "description": "Agora Video Call 2.2 (in VueJs)",
-  "author": "Hao Yang <tillohao@gmail.com>",
-  "private": true,
+  "version": "2.1",
+  "description": "Integrate Agora SDK with ReactJs to realize a simple video chat app",
+  "author": "Hao Yang <haoyang@agora.io>",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
