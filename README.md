@@ -1,5 +1,7 @@
 # Agora Video Call
 
+## THIS PROJECT IS OUT OF MAINTENANCE, PLEASE REFER TO OUR [VUE TUTORIAL](https://github.com/AgoraIO/Basic-Video-Call/tree/master/One-to-One-Video/Agora-Web-Tutorial-1to1-Vue) IF YOU NEED GUIDANCE ON HOW TO USE AGORA WEBSDK IN VUE
+
 This repository gives you an example about how to integrate AgoraRTC SDK with VueJs to realize a simple video chat application (just like Skype).
 You can find **React** version [here](https://github.com/AgoraIO/OpenAgoraWeb-React)
 
